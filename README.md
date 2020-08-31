@@ -1,4 +1,4 @@
-# Color-Space-Conversion
+# Images-Color-Space-Conversion
 Color Space Conversion | Encoding and Decoding images (RGB:YUV)
 
 Converting a RAW rgb image to a YUV format with Compression to the original image then Decompression and Reconstructing the RGB channels. 
